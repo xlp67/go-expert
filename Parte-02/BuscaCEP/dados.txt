@@ -1,0 +1,5 @@
+CEP: 68702-271
+Logradouro: Passagem Jari
+Bairro: Areia Branca
+Cidade: Capanema
+UF: PA
